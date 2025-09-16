@@ -18,6 +18,7 @@ The notebook covers the following steps:
 The Fashion MNIST dataset consists of 70,000 grayscale images of size 28x28 pixels, categorized into 10 classes of clothing items. The dataset is split into 60,000 training images and 10,000 test images.
 
 The 10 classes are:
+
 0. T-shirt/top
 1. Trouser
 2. Pullover
@@ -49,7 +50,7 @@ The model is trained using:
 
 ## Results
 
-The training history, including training and validation loss, and validation F1 score, is recorded and plotted to visualize the model's performance during training.
+The training history, including training and validation loss, and validation F1 score, is recorded, loss curves are plotted to visualize the model's performance during training.
 
 ## How to Use
 
